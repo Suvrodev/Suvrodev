@@ -1,7 +1,10 @@
   <h1 align="center">Hi 👋, I'm Suvrodeb</h1>
         <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
-      
+        <img align="right" width="400" alt="gif" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" >
+        <p align="left"> <img
+                src="https://komarev.com/ghpvc/?username=suvrodev&label=Profile%20views&color=0e75b6&style=flat"
+                alt="suvrodev" /> </p>
 
         - 🔭 I’m currently working on **MERN stack project**
 
