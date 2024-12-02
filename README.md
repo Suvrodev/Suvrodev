@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ![Social banner for Suvrodeb Howlader](assets/GitHub1.gif) -->
- <img src="assets/GitHub1.gif" alt="Social banner for Suvrodeb Howlader" width="100%" height="500">
+ <img src="assets/GitHub1.gif" alt="Social banner for Suvrodeb Howlader" width="100%" height="300">
 
 </div>
 
