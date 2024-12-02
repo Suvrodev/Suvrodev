@@ -53,16 +53,27 @@ I'm a passionate Mern Stack developer with a B.Sc. in Computer Science from Nort
 
 - **bTolet**
   - Description: Market Place Application built by react.
-  - A Survey application using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project involves integrating payment functionalities, implementing a robust user management system, and creating an admin dashboard with role management.
   - Live Site: [bTolet](https://btolet.com/)
 - **Weaverr it**
   - Description: IT firm website made by React and Firebase.
-  - I am developing a comprehensive job-seeking platform using the MERN (MongoDB, Express.js, React, Node.js) stack. This project includes creating intuitive job posting and search functionalities categorized into On-Site, Remote, Hybrid, and Part-Time roles. Key features encompass seamless job application submissions, user profile management, and tracking applied jobs. The website incorporates JWT authentication for secure logins, a responsive navbar with conditional rendering based on user authentication, and a dynamic theme toggling feature.
   - Live Site: [Weaverr IT](https://radiant-kitsune-d7e6d2.netlify.app/)
 - **Bistro Boss**
+
   - Description: An art gallery website showcasing Bangladeshi art.
-  - A comprehensive Art & Craft Store website built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project features seamless CRUD operations for managing craft items, user authentication with JWT, dynamic frontend with React components, and protected routes for adding, updating, and viewing detailed craft listings. The website includes social login options, responsive design, and showcases a variety of crafted items categorized for easy navigation.
   - Live Site: [Bistro Boss](https://mybistroboss.netlify.app/home)
+
+      <p align="left">
+      <a href="https://github.com/Suvrodev/btolet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+
+    <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
+    <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
+    <a href="https://github.com/Rapptz/discord.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
+    <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="onefetch"></a>
+    <a href="https://github.com/scrapinghub/dateparser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dateparser"></a>
+    <a href="https://github.com/python-babel/babel"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=python-babel&repo=babel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="babel"></a>
+    <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nextcord"></a>
+    <a href="https://github.com/PyCQA/autoflake"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PyCQA&repo=autoflake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="autoflake"></a>
+    </p>
 
 ### 📈 GitHub Activity
 
