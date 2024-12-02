@@ -6,12 +6,12 @@
 
 <!-- Typing Animation -->
 
-<h2 align="center">
+<div>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Suvrodeb;I+aspire+to+be+a+Software+Engineer;Currently+learning+advanced+web+development;Passionate+about+problem-solving+and+programming;">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Suvrodeb+Howlader;I+aspire+to+be+a+Software+Engineer;Currently+learning+advanced+web+development;Passionate+about+problem-solving+and+programming;">
   </a>
-</h2>
+</div>
 
 # About Me
 
