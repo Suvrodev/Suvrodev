@@ -69,20 +69,25 @@ I'm a passionate Mern Stack developer with a B.Sc. in Computer Science from Nort
 ![Suvrodev's Commit Count](https://img.shields.io/github/commit-activity/m/Suvrodev/Suvrodev?style=for-the-badge&label=Commit%20Count&color=blue)
 ![Suvrodev's Daily Streak](https://img.shields.io/github/commit-activity/w/Suvrodev/Suvrodev?style=for-the-badge&label=Daily%20Streak&color=green)
 
-### 📊 GitHub Stats
+## ┌─» WORK »────────────
 
-![Suvrodeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suvrodev&show_icons=true&theme=transparent&color=white)
-
-### 🛠️ Languages Used
-
+ <div align='center'>
+ 
+<!-- ### 🛠️ Languages Used -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvrodev&layout=pie&theme=transparent)
 
----
+<!-- ### 📊 GitHub Stats -->
+
+![Suvrodeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suvrodev&show_icons=true&theme=transparent&color=white)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Suvrodev&theme=radical)
+
+ </div>
 
 Feel free to customize this template further according to your preferences. The badges for Commit Count and Daily Streak now use the Dev Metrics style with customized labels and colors. Let me know if there are any other adjustments you would like to make!
 
 ### 📫 Let’s Connect:
 
+[![Website](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suvrodev.1122)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/suvrodeb-howlader/)
 [![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:suvrodeb.cse@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](https://suvrodeb.netlify.app/)
