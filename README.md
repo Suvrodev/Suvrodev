@@ -12,24 +12,34 @@ I'm a passionate Mern Stack developer with a B.Sc. in Computer Science from Nort
 
 ### 🌟 Skills
 
+<!-- for badge: img.shields.io badge for nextjs -->
+
 - **Languages**:
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Typescript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- **Frameworks/Libraries**:
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
+- **Frameworks**:
+  ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+  ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- **Libraries**
+  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+  ![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 - **Tools**:
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-- **Design**:
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
 - **Databases**:
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📚 Education
 
@@ -37,7 +47,7 @@ I'm a passionate Mern Stack developer with a B.Sc. in Computer Science from Nort
 
 ### 🌱 Currently Learning
 
-- Advanced React Patterns
+- Advanced Mern Pattern
 
 ### 💼 Projects
 
@@ -54,23 +64,39 @@ I'm a passionate Mern Stack developer with a B.Sc. in Computer Science from Nort
   - A comprehensive Art & Craft Store website built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project features seamless CRUD operations for managing craft items, user authentication with JWT, dynamic frontend with React components, and protected routes for adding, updating, and viewing detailed craft listings. The website includes social login options, responsive design, and showcases a variety of crafted items categorized for easy navigation.
   - Live Site: [Bistro Boss](https://mybistroboss.netlify.app/home)
 
-### 📊 GitHub Stats
-
-![Suvrodeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Az-Zahur&show_icons=true&theme=radical)
-
 ### 📈 GitHub Activity
 
-![Md. Abdullah Az Zahur's Commit Count](https://img.shields.io/github/commit-activity/m/Abdullah-Az-Zahur/Abdullah-Az-Zahur?style=for-the-badge&label=Commit%20Count&color=blue)
-![Md. Abdullah Az Zahur's Daily Streak](https://img.shields.io/github/commit-activity/w/Abdullah-Az-Zahur/Abdullah-Az-Zahur?style=for-the-badge&label=Daily%20Streak&color=green)
+![Suvrodev's Commit Count](https://img.shields.io/github/commit-activity/m/Suvrodev/Suvrodev?style=for-the-badge&label=Commit%20Count&color=blue)
+![Suvrodev's Daily Streak](https://img.shields.io/github/commit-activity/w/Suvrodev/Suvrodev?style=for-the-badge&label=Daily%20Streak&color=green)
+
+### 📊 GitHub Stats
+
+![Suvrodeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suvrodev&show_icons=true&theme=transparent&color=white)
 
 ### 🛠️ Languages Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Az-Zahur&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvrodev&layout=pie&theme=transparent)
 
 ---
 
 Feel free to customize this template further according to your preferences. The badges for Commit Count and Daily Streak now use the Dev Metrics style with customized labels and colors. Let me know if there are any other adjustments you would like to make!
 
+### 📫 Let’s Connect:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/suvrodeb-howlader/)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:suvrodeb.cse@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](https://suvrodeb.netlify.app/)
+
 </p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvrodev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvrodev&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvrodev&layout=pie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- Needed -->
+<!-- Search: img.shields.io badge for react -->
+<!-- React badge: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suvrodev&show_icons=true&theme=transparent&color=white) -->
