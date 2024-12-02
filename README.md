@@ -1,4 +1,4 @@
-![Social banner for Suvrodeb Howlader](assets/GitHub.gif)
+![Social banner for Suvrodeb Howlader](assets/GitHub1.gif)
 
 <h1 align='center'> Hi Developer :wave: , I'm Suvrodeb Howlader.</h1>
 
