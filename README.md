@@ -79,7 +79,7 @@ I'm a passionate Mern Stack developer with a B.Sc. in Computer Science from Nort
 <!-- ### 📊 GitHub Stats -->
 
 ![Suvrodeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suvrodev&show_icons=true&theme=transparent&color=white)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Suvrodev&theme=radical)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Suvrodev)
 
  </div>
 
