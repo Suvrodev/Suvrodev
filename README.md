@@ -2,13 +2,13 @@
 
 <h1 align='center'> Hi Developer :wave: , I'm Suvrodeb Howlader.</h1>
 
-<h1 align='center'><i>About me</i></h1>
-<p>
+<p align='center' style="font-size: 20px" > <b>A passionate Full Stack Developer</b> </p>
+
 # About Me
 
-## 👋 Hello, I'm Md. Abdullah Az Zahur!
+## 👋 Hello, I'm Suvrodeb Howlader!
 
-I'm a passionate front-end web developer with a B.Sc. in Computer Science from North Western University. I enjoy building interactive and user-friendly web applications. My journey in web development started with a curiosity for how websites work and has since grown into a full-fledged career.
+I'm a passionate Mern Stack developer with a B.Sc. in Computer Science from North Western University. I enjoy building interactive and user-friendly web applications. My journey in web development started with a curiosity for how websites work and has since grown into a full-fledged career.
 
 ### 🌟 Skills
 
@@ -16,6 +16,7 @@ I'm a passionate front-end web developer with a B.Sc. in Computer Science from N
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Typescript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - **Frameworks/Libraries**:
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -40,22 +41,22 @@ I'm a passionate front-end web developer with a B.Sc. in Computer Science from N
 
 ### 💼 Projects
 
-- **Survey Vista**
-  - Description: A survey application built with React and Firebase.
+- **bTolet**
+  - Description: Market Place Application built by react.
   - A Survey application using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project involves integrating payment functionalities, implementing a robust user management system, and creating an admin dashboard with role management.
-  - Live Site: [Survey Vista](https://survey-vista.web.app/)
-- **Job Nest**
-  - Description: A job listing platform using React and Firebase.
+  - Live Site: [bTolet](https://btolet.com/)
+- **Weaverr it**
+  - Description: IT firm website made by React and Firebase.
   - I am developing a comprehensive job-seeking platform using the MERN (MongoDB, Express.js, React, Node.js) stack. This project includes creating intuitive job posting and search functionalities categorized into On-Site, Remote, Hybrid, and Part-Time roles. Key features encompass seamless job application submissions, user profile management, and tracking applied jobs. The website incorporates JWT authentication for secure logins, a responsive navbar with conditional rendering based on user authentication, and a dynamic theme toggling feature.
-  - Live Site: [Job Nest](https://job-nest-391e1.web.app/)
-- **BD Art Gallery**
+  - Live Site: [Weaverr IT](https://radiant-kitsune-d7e6d2.netlify.app/)
+- **Bistro Boss**
   - Description: An art gallery website showcasing Bangladeshi art.
   - A comprehensive Art & Craft Store website built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project features seamless CRUD operations for managing craft items, user authentication with JWT, dynamic frontend with React components, and protected routes for adding, updating, and viewing detailed craft listings. The website includes social login options, responsive design, and showcases a variety of crafted items categorized for easy navigation.
-  - Live Site: [BD Art Gallery](https://bd-art-gallery.firebaseapp.com/)
+  - Live Site: [Bistro Boss](https://mybistroboss.netlify.app/home)
 
 ### 📊 GitHub Stats
 
-![Md. Abdullah Az Zahur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Az-Zahur&show_icons=true&theme=radical)
+![Suvrodeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Az-Zahur&show_icons=true&theme=radical)
 
 ### 📈 GitHub Activity
 
