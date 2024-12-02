@@ -2,7 +2,7 @@
 
 <h1 align='center'> Hi Developer :wave: , I'm Suvrodeb Howlader.</h1>
 
-<p align='center' style="font-size: 20px" > <b>A passionate Full Stack Developer</b> </p>
+### <p align='center' > <b>A passionate Full Stack Developer</b> </p>
 
 # About Me
 
