@@ -54,6 +54,7 @@ I'm a passionate Mern Stack developer with a B.Sc. in Computer Science from Nort
 - **Databases**:
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Mongoose](https://img.shields.io/badge/mongoose-blue?style=for-the-badge&logo=mongoose&logoColor=%23840000&logoSize=amg&labelColor=white&color=%23840000)
 
 ### 📚 Education
 
